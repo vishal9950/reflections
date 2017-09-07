@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It is a good practice to have every new feature to be developed on a new branch rather than on the master so that if the author of the program is satisfied then he can merge or else he should guide for necessary changes. Making changes in another branch will not affect the original code ,i.e., if the feature didn't workout the older code is still functional. Making changes on master will affect the whole program directly.
